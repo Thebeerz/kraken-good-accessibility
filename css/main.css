@@ -25,11 +25,11 @@ img {
 
 header {
   background-image: url("../images/anchors.svg");
+  background-color: #259f95;
   color: #fff;
   font-size: 1.125rem;
   font-style: normal;
   font-weight: normal;
-  background-color: #259f95;
 }
 
 .top {
